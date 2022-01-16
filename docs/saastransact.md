@@ -12,10 +12,7 @@
 - You can offer Test Drives across all listing, including Free Trial.
 
 ## Upgrade flow
-- Contact Me -> Trial = Re-publish offer 
-- Contact Me -> Transact = Create new offer
-- Trial -> Transact = Create New Offer
-- To add Test Drive to any offer = Re-publish offer
+- Re-publish offers from Contact Me to Transact/Trial, as well as when adding Test Drive
 
 ## Minimum technical requirements for Contact Me
 - Connect to the CRM system to managed [customer leads](https://docs.microsoft.com/en-us/azure/marketplace/partner-center-portal/commercial-marketplace-get-customer-leads#connect-to-your-crm-system).
