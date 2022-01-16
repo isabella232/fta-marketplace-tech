@@ -9,7 +9,7 @@
 - To understand the technical requirements when publishing solutions to the Commercial Marketplace 
 - To qualify which transactable offer type is right for you
 - To understand how metering works and how to configure this for your offer\
-- To answer any follow-up questions after watching the [Master the Marketplace](https://github.com/microsoft/Mastering-the-Marketplace) series.
+- To answer any follow-up questions after watching the [Master the Marketplace](http://aka.ms/MasteringTheMarketplace) series.
 
 ### Pre-requisites
 - You have provisioned Partner Center account
